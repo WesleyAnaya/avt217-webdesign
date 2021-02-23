@@ -1,0 +1,32 @@
+body {
+  background-color: #2d2a2b;
+  margin-top: 350px;
+}
+h1 {
+  color: #c0e2ca;
+  text-align: center;
+  font-family: bicyclette, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+h3 {
+  color: #c0e2ca;
+  text-align: center;
+  font-family: bicyclette, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+a {
+  color: #c0e2ca;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+p {
+  color: #c0e2ca;
+  text-align: center;
+  font-family: bicyclette, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
