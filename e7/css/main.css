@@ -1,0 +1,39 @@
+body {
+  background-color: papayawhip;
+  padding: 50px 200px;
+}
+h1 {
+  color: steelblue;
+  text-align: left;
+  font-family: kanit, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+h3 {
+  color: darkolivegreen;
+  text-align: left;
+  font-family: kanit, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+h2 {
+  color: indianred;
+  text-align: left;
+  font-family: kanit, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+p {
+  color: black;
+  text-align: left;
+  font-family: kanit, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+li {
+  color: black;
+  text-align: left;
+  font-family: kanit, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
