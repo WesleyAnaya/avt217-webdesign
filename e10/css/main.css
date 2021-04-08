@@ -1,0 +1,20 @@
+body {
+  background-color: dodgerblue;
+}
+.black {
+  width: 75px;
+  height: 75px;
+  background-color: hotpink;
+  float: left;
+}
+.red {
+  width: 75px;
+  height: 75px;
+  background-color: orange;
+  float: left;
+}
+.board {
+  width: 600px;
+  display: flow-root;
+  margin: 100px auto;
+}
